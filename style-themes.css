@@ -248,7 +248,7 @@ p.contacts-name {
   border-radius: .25rem;
 }
 .social-icons a:hover {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .social-icons a::before {
   content: "";
